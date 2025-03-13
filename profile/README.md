@@ -3,7 +3,7 @@
 
 ## About Us
 
- Kici Corporation Holding is a leading b2b software development company. Founded in 2024, we're dedicated to helping various complex projects come to life and helping businesses of all sizes.
+ Kici Corporation is a leading B2B software development company. Founded in 2024, we're dedicated to helping various complex projects come to life and helping businesses of all sizes.
  
 ## Our Technology
 
@@ -42,4 +42,4 @@ For questions about our repositories or technologies:
 
 ---
 
-© 2025 Kici Corporation. All Rights Reserved.
+© 2025 Kici Corporation Holding LTD. All Rights Reserved.
