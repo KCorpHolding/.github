@@ -22,7 +22,7 @@ Our technology stack includes:
 
 ## Working at Kici Corporation
 
-We're always looking for talented people to join our team. Check out our [careers page](https://careers.kcorp.org/) to see current openings.
+We're always looking for talented people to join our team. Check out our [careers page](https://careers.kcorporation.org/) to see current openings.
 
 ## Coding Standards and Contribution Guidelines
 
@@ -30,10 +30,9 @@ For our open source projects, please review each repository's CONTRIBUTING.md fi
 
 ## Community and Support
 
-- Official Website: [https://kcorp.org](https://kcorp.org)
-- Documentation: [https://docs.kcorp.org](https://docs.kcorp.org)
+- Official Website: [https://kcorporation.org](https://kcorporation.org)
+- Documentation: [https://docs.kcorporation.org](https://docs.kcorporation.org)
 - Twitter: [@KiciCorporation](https://twitter.com/kicicorporation)
-- LinkedIn: [Company LinkedIn](https://linkedin.com/company/kcorp)
 
 ## Contact Us
 
