@@ -37,7 +37,7 @@ For our open source projects, please review each repository's CONTRIBUTING.md fi
 ## Contact Us
 
 For questions about our repositories or technologies:
-- Email: cto@kcorp.org
+- Email: cto@kcorporation.org
 - Issue Tracker: Please use the individual repository's issue tracker
 
 ---
